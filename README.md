@@ -1,16 +1,13 @@
-## Hi there 👋
+## boas vindas ao meu perfil 👋
 
-<!--
-**Dudatavora/Dudatavora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome é Maria Eduarda 
 
-Here are some ideas to get you started:
+- estou estudando na alura
+- eu gosto de esportes
+- também de doces
+- primeiro ano do ensino médio
+- gosto de assistir animes e drama
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ### vc entrar em contato 💬
+
+ - Instagram: duda.tavora15
